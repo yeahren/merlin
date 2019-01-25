@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 setup_data=true
 train_tts=true
 run_tts=true
